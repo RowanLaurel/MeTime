@@ -3,7 +3,7 @@ As this is a learning project for @RowanLaurel they will be attempting to refren
 #Turtorials and How-Tos refrenced
 
 *How to Get Current Date and Time in Javascript*
-- https://tecadmin.net/get-current-date-time-javascript/
+https://tecadmin.net/get-current-date-time-javascript/
 
 #Repositories and similar considered
 
@@ -15,3 +15,27 @@ https://github.com/apvarun/toastify-js
 
 *toastr.js*
 https://cdnjs.com/libraries/toastr.js/latest
+
+
+#Other things of note#
+
+*Electron*
+https://electronjs.org/
+-FCC Article about this tool https://medium.freecodecamp.org/how-to-build-your-first-app-with-electron-41ebdb796930
+-Codeburst Article about this tool: https://codeburst.io/how-to-build-a-javascript-desktop-app-that-saves-windows-spotlight-images-an-electron-story-e02a10364c1a
+
+*APP JS*
+http://appjs.com/
+
+*NW.JS*
+https://nwjs.io/
+
+*Meteror*
+https://www.meteor.com/
+
+*Proton Native.JS*
+https://proton-native.js.org/#/
+
+*Vuido*
+https://github.com/mimecorg/vuido
+
